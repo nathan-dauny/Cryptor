@@ -1,0 +1,40 @@
+C:\Users\anous\VisualSTudioNathan\Crypteur\Crypteur\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\anous\VisualSTudioNathan\Crypteur\Crypteur\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\anous\VisualSTudioNathan\Crypteur\Crypteur\obj\Debug\net8.0-windows\Crypteur_MarkupCompile.cache
+C:\Users\anous\VisualSTudioNathan\Crypteur\Crypteur\obj\Debug\net8.0-windows\Crypteur_MarkupCompile.lref
+C:\Users\anous\VisualSTudioNathan\Crypteur\Crypteur\bin\Debug\net8.0-windows\Crypteur.exe
+C:\Users\anous\VisualSTudioNathan\Crypteur\Crypteur\bin\Debug\net8.0-windows\Crypteur.deps.json
+C:\Users\anous\VisualSTudioNathan\Crypteur\Crypteur\bin\Debug\net8.0-windows\Crypteur.runtimeconfig.json
+C:\Users\anous\VisualSTudioNathan\Crypteur\Crypteur\bin\Debug\net8.0-windows\Crypteur.dll
+C:\Users\anous\VisualSTudioNathan\Crypteur\Crypteur\bin\Debug\net8.0-windows\Crypteur.pdb
+C:\Users\anous\VisualSTudioNathan\Crypteur\Crypteur\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\anous\VisualSTudioNathan\Crypteur\Crypteur\obj\Debug\net8.0-windows\Crypteur.g.resources
+C:\Users\anous\VisualSTudioNathan\Crypteur\Crypteur\obj\Debug\net8.0-windows\Crypteur.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anous\VisualSTudioNathan\Crypteur\Crypteur\obj\Debug\net8.0-windows\Crypteur.AssemblyInfoInputs.cache
+C:\Users\anous\VisualSTudioNathan\Crypteur\Crypteur\obj\Debug\net8.0-windows\Crypteur.AssemblyInfo.cs
+C:\Users\anous\VisualSTudioNathan\Crypteur\Crypteur\obj\Debug\net8.0-windows\Crypteur.csproj.CoreCompileInputs.cache
+C:\Users\anous\VisualSTudioNathan\Crypteur\Crypteur\obj\Debug\net8.0-windows\Crypteur.dll
+C:\Users\anous\VisualSTudioNathan\Crypteur\Crypteur\obj\Debug\net8.0-windows\refint\Crypteur.dll
+C:\Users\anous\VisualSTudioNathan\Crypteur\Crypteur\obj\Debug\net8.0-windows\Crypteur.pdb
+C:\Users\anous\VisualSTudioNathan\Crypteur\Crypteur\obj\Debug\net8.0-windows\Crypteur.genruntimeconfig.cache
+C:\Users\anous\VisualSTudioNathan\Crypteur\Crypteur\obj\Debug\net8.0-windows\ref\Crypteur.dll
+C:\Users\anous\Desktop\Applications dev\Crypteur\bin\Debug\net8.0-windows\Crypteur.exe
+C:\Users\anous\Desktop\Applications dev\Crypteur\bin\Debug\net8.0-windows\Crypteur.deps.json
+C:\Users\anous\Desktop\Applications dev\Crypteur\bin\Debug\net8.0-windows\Crypteur.runtimeconfig.json
+C:\Users\anous\Desktop\Applications dev\Crypteur\bin\Debug\net8.0-windows\Crypteur.dll
+C:\Users\anous\Desktop\Applications dev\Crypteur\bin\Debug\net8.0-windows\Crypteur.pdb
+C:\Users\anous\Desktop\Applications dev\Crypteur\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\anous\Desktop\Applications dev\Crypteur\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\anous\Desktop\Applications dev\Crypteur\obj\Debug\net8.0-windows\Crypteur_MarkupCompile.cache
+C:\Users\anous\Desktop\Applications dev\Crypteur\obj\Debug\net8.0-windows\Crypteur_MarkupCompile.lref
+C:\Users\anous\Desktop\Applications dev\Crypteur\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\anous\Desktop\Applications dev\Crypteur\obj\Debug\net8.0-windows\Crypteur.g.resources
+C:\Users\anous\Desktop\Applications dev\Crypteur\obj\Debug\net8.0-windows\Crypteur.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anous\Desktop\Applications dev\Crypteur\obj\Debug\net8.0-windows\Crypteur.AssemblyInfoInputs.cache
+C:\Users\anous\Desktop\Applications dev\Crypteur\obj\Debug\net8.0-windows\Crypteur.AssemblyInfo.cs
+C:\Users\anous\Desktop\Applications dev\Crypteur\obj\Debug\net8.0-windows\Crypteur.csproj.CoreCompileInputs.cache
+C:\Users\anous\Desktop\Applications dev\Crypteur\obj\Debug\net8.0-windows\Crypteur.dll
+C:\Users\anous\Desktop\Applications dev\Crypteur\obj\Debug\net8.0-windows\refint\Crypteur.dll
+C:\Users\anous\Desktop\Applications dev\Crypteur\obj\Debug\net8.0-windows\Crypteur.pdb
+C:\Users\anous\Desktop\Applications dev\Crypteur\obj\Debug\net8.0-windows\Crypteur.genruntimeconfig.cache
+C:\Users\anous\Desktop\Applications dev\Crypteur\obj\Debug\net8.0-windows\ref\Crypteur.dll
